@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "@nomiclabs/hardhat-ganache": "^2.0.1",
+    "hardhat": "^2.12.6"
+  },
+  "dependencies": {
+    "create-react-app": "^5.0.1",
+    "dotenv": "^16.0.3",
+    "ethereumjs-testrpc": "^6.0.3",
+    "web3": "^0.20.1"
+  }
+}
